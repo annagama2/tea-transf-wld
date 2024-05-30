@@ -1,0 +1,64 @@
+
+{
+  "name": "tea-transf-wld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "discription": "tea-transf-wld , A preliminary exploration of tea and artificial intelligence",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annagama2/tea-transf-wld.git"
+  },
+  "author": "annagama2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annagama2/tea-transf-wld/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/annagama2/tea-transf-wld#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "node-rsa": "^1.1.1",
+    "require": "^2.4.20",
+    "form-data": "^4.0.0",
+    "request": "^2.88.2",
+    "teafi-ooooo":"^1.1.8",
+    "tea-defi-spolia":"^1.0.4",
+    "tea-defi-sapphire":"^1.0.2",
+    "tea-defi-gorli":"^1.0.2",
+    "tea-defi-math":"^1.0.2",
+    "tea-defi-vipper":"^1.0.2",
+    "tea-defi-ether":"^1.0.2",
+    "tea-defi-bitcoin":"^1.0.2",
+    "tea-defi-bnbcoin":"^1.0.2",
+    "tea-defi-matic":"^1.0.2",
+    "tea-defi-arbcoin":"^1.0.2",
+    "tea-defi-waterfecut":"^1.0.2",
+    "tea-bridge-eth":"^1.0.0",
+    "tea-bridge-btc":"^1.0.0",
+    "tea-transf-wld":"^1.0.0",
+    "tea-transf-matic":"^1.0.0",
+    "tea-fech-arb":"^1.0.0",
+    "tea-fech-nimiq":"^1.0.0",
+    "tea-math-ordi":"^1.0.0",
+    "tea-math-sui":"^1.0.0",
+    "tea-verifiry-ftt":"^1.0.0",
+    "tea-verifiry-bnb":"^1.0.0",
+    "tea-link-cake":"^1.0.0",
+    "tea-link-etc":"^1.0.0",
+    "tea-connected-doge":"^1.0.0",
+    "tea-connected-epc":"^1.0.0",
+    "tea-support-nft":"^1.0.0",
+    "tea-support-ada":"^1.0.0",
+    "tea-basis-ethspl":"^1.0.0",
+    "tea-basis-btclt":"^1.0.0",
+    "tea-atoms-op":"^1.0.0",
+    "tea-atoms-sats":"^1.0.0"
+  }
+}

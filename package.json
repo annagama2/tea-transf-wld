@@ -2,7 +2,7 @@
 {
   "name": "tea-transf-wld",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "discription": "tea-transf-wld , A preliminary exploration of tea and artificial intelligence",
   "type": "module",
   "scripts": {

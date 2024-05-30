@@ -1,0 +1,5 @@
+{
+  "openaiApiKey": "YOUR_OPENAI_API_KEY",
+  "teaPaymentApiUrl": "https://api.teacoin.com/payment",
+  "teaPaymentApiKey": "YOUR_TEA_PAYMENT_API_KEY"
+}

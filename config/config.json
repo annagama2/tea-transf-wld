@@ -3,3 +3,8 @@
   "teaPaymentApiUrl": "https://api.teacoin.com/payment",
   "teaPaymentApiKey": "YOUR_TEA_PAYMENT_API_KEY"
 }
+{
+  "openaiApiKey": process.env.OPENAI_API_KEY,
+  "teaPaymentApiUrl": "https://api.teacoin.com/payment",
+  "teaPaymentApiKey": process.env.TEA_PAYMENT_API_KEY
+}
